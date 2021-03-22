@@ -1,6 +1,6 @@
 # MediappFrontend
 
-EVALUACION TIPO A s para la obtención del certificado de aprobación del curso Java Full Stack
+EVALUACION TIPO A para la obtención del certificado de aprobación del curso Java Full Stack
 (Spring Boot 2 + Angular 11) - MITOCODE
 
 
