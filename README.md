@@ -1,5 +1,23 @@
 # MediappFrontend
 
+EVALUACION TIPO A s para la obtención del certificado de aprobación del curso Java Full Stack
+(Spring Boot 2 + Angular 11) - MITOCODE
+
+
+# Coder
+
+CRISTIAN FERNANDO CHAVEZ TORRES
+
+# Email Coder
+
+cristian_7_70@hotmail.com
+
+# Phone Coder
+
+944129804
+
+# Project
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server
